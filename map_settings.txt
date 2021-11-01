@@ -1,0 +1,9 @@
+number_of_circles           20
+minimum_radius              20
+maximum_radius              50
+
+////////////////////////////////////////////////////////////////////////////////
+Testing parameters
+number_of_circles           20
+minimum_radius              20
+maximum_radius              50
